@@ -1,6 +1,6 @@
 # Canadian-Forest-Fires
 <p align="center">
-  <img src="https://chongcurtis.com/photos/inner_catcorp.gif" alt="The engine in action!"/>
+  <img src="http://chongcurtis.com/photos/project_wind_farms.png" alt="A photo of the proposed locations."/>
 </p>
 
 Inspired by the tragedy at Fort McMurray, my team wanted to discover ways to reduce the frequency and size of forest fires; we began by looking at the National Fire Database. This database describes all Canadian forest fires since the 1930s and underscores features such as size, location, and other government responses. To describe the fires in more detail, we attributed each fire to the nearest weather station to determine weather conditions at the time of the fire, namely precipitation, pressure, wind speed, and temperature. After a couple of covariance graphs and casual observations, we discovered that low humidity was a large contributing factor and that 40% of the naturally occurring fires were sparked by a lightning strike.
