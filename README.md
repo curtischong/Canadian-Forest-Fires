@@ -1,6 +1,6 @@
 # Canadian-Forest-Fires
 <p align="center">
-  <img src="http://chongcurtis.com/photos/project_wind_farms_small.png" alt="A photo of the proposed locations."/>
+  <img src="project_wind_farms_small.png" alt="A photo of the proposed locations."/>
 </p>
 
 Published Paper and Abstract [here](http://journal.stemfellowship.org/toc/sfj/3/1)
